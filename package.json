@@ -1,0 +1,20 @@
+{
+  "name": "social-network-backend",
+  "version": "1.0.0",
+  "description": "Social-Network-Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbfasika/Social-Network-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbfasika/Social-Network-Backend/issues"
+  },
+  "homepage": "https://github.com/gbfasika/Social-Network-Backend#readme"
+}
